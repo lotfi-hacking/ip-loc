@@ -1,1 +1,1 @@
-import ip_loc
+import iploc
